@@ -14,7 +14,7 @@ For further details on the project, please visit: https://eclipse-ee4j.github.io
 
 A slide deck introducing the fundamentals of the project is available on the official Eclipse Foundation Jakarta EE SlideShare account. A recording of the slide deck is available on the official Jakarta EE YouTube account.
 
-See Eclipse SWTChart on [Eclipse](https://projects.eclipse.org/projects/ee4j.cargotracker), [Github](https://github.com/eclipse-ee4j/cargotracker)  
+See Eclipse Cargotracker on [Eclipse](https://projects.eclipse.org/projects/ee4j.cargotracker), [Github](https://github.com/eclipse-ee4j/cargotracker)  
 See this project on [Google Summer of code](https://summerofcode.withgoogle.com/projects/#5104569337511936)  
 Mentor - [Reza Rahman](https://github.com/m-reza-rahman)
 
